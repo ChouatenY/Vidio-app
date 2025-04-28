@@ -1,4 +1,5 @@
-![vega-high-resolution-logo-transparent](https://github.com/Zenda-Cross/vega-app/assets/143804558/b2eb446f-8e7f-4800-81e1-3320c82f33de)
+![Black and Yellow Cinema Logo](https://github.com/user-attachments/assets/26ccd9eb-b1dc-434f-9cd8-1e71a2e7a51a)
+()
 
 # Vega-App
 Android app for streaming media.
