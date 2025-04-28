@@ -1,5 +1,6 @@
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 ![Black and Yellow Cinema Logo](https://github.com/user-attachments/assets/26ccd9eb-b1dc-434f-9cd8-1e71a2e7a51a)
-()
+
 
 # Vega-App
 Android app for streaming media.
